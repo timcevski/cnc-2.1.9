@@ -1,0 +1,6 @@
+{
+  "name": "CNC Dispenser V2.1.8",
+  "description": "CNC Dispenser V2.1.8 со живо Mach3 следење на активниот диспензер, G90 заштита и извоз на USB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
